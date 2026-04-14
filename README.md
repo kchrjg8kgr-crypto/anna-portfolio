@@ -169,7 +169,7 @@ footer {
 
 <section id="contact" class="container">
   <h2>Контакти</h2>
-  <p>Instagram: @yourname</p>
+  <p>Instagram: @ugc.form</p>
   <p>Email: your@email.com</p>
 </section>
 
